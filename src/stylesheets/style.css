@@ -1,0 +1,36 @@
+#editor{
+    background-color:darkgrey;
+    width:50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 200px;
+    color: black;
+    margin-top: 60px;
+    padding: 20px;
+    font-size: 1.5rem;
+    box-sizing: border-box;
+}
+#preview{
+    margin-top: 30px;
+    width: 80%;
+    min-height: 400px;
+    background-color: #5d8286;
+    margin-left: 10%;
+    margin-right: 10%;
+    box-sizing: border-box;
+    padding: 15px;
+    color: azure;
+}
+@media (max-width:768px)
+{
+    #editor,#preview{
+        width:80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+    #preview{
+        width:100%;
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+}
