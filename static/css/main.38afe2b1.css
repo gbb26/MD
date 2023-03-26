@@ -1,0 +1,2 @@
+body{background-color:#b1b6b8}#editor{background-color:#a9a9a9;color:#000;font-size:1.5rem;height:200px;margin-left:25%;margin-right:25%;margin-top:60px;padding:20px;width:50%}#editor,#preview{box-sizing:border-box}#preview{background-color:#5d8286;color:azure;margin-left:10%;margin-right:10%;margin-top:30px;min-height:400px;padding:15px;width:80%}@media (max-width:768px){#editor,#preview{margin-left:10%;margin-right:10%;width:80%}#preview{margin-left:0;margin-right:0;width:100%}}
+/*# sourceMappingURL=main.38afe2b1.css.map*/
